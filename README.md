@@ -150,3 +150,8 @@ or
       WEB_CONCURRENCY = 1
     }
     heroku_hostname = myown-kontena.herokuapp.com
+
+
+## Related issues
+
+ - https://github.com/kontena/kontena/issues/2663
